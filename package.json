@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "name": "disc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juninnzx",
+  "license": "ISC",
+  "description": "bot discord estudos prog",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninnzx21/discord-study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juninnzx21/discord-study/issues"
+  },
+  "homepage": "https://github.com/juninnzx21/discord-study#readme"
+}
